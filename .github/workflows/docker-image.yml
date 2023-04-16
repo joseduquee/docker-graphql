@@ -34,4 +34,4 @@ jobs:
     - name: Push Docker Image
       run: | 
         docker push joseduquee/docker-graphql:0.0.2
-        docker push joseduquee/docker-graphql:lates
+        docker push joseduquee/docker-graphql:latest
